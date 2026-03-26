@@ -16,7 +16,7 @@ const state = {
 const questions = [
   {
     title: "Pergunta 1",
-    text: "Como acreditas que o governo pode garantir que todos participem de forma justa na democracia?",
+    text: "Como acreditas que o governo pode garantir que todos participam de forma justa na democracia?",
     choices: [
       {
         label: "Promovendo um ambiente de diálogo e escuta ativa, garantindo que as minorias sejam ouvidas.",
